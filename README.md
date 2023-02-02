@@ -1,4 +1,4 @@
 # Gigily-HTML-CSS-JS
 
 Preview | نتیجه ی کار 😊😉
-https://codingwithenjoy.github.io/Gigily-HTML-CSS-JS/
+http://gigily2.0hi.me/
